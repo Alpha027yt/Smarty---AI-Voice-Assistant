@@ -1,1 +1,3 @@
-# Smarty---AI-Voice-Assistant
+# Smarty - AI Voice Assistant
+A general-purpose personal voice assitant with basic automation functions and offline talkback responses...
+Ollama gemma3:1b model
